@@ -1,0 +1,30 @@
+#main
+{
+  margin-top: 50px;
+  font-size: 12px;
+}
+
+#mainLeft
+{
+  width: 280px;
+  font-size: 16px;
+  float: left;
+}
+
+#mainLeft .text {
+  margin-top: 20px;
+  float: none;
+  margin-bottom: 60px;
+}
+
+#mainRight {
+  margin-left: 293px;
+}
+.home #mainRight {
+  padding-left: 40px;
+}
+
+.home #mainLeft img
+{
+  padding-top: 30px;
+}
